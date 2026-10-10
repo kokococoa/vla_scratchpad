@@ -1,2 +1,8 @@
 .venv
 01_qwen_test/image/cargo_annotated.jpg
+
+02_action_policy_test_two_balls/training_data/*
+!02_action_policy_test_two_balls/training_data/.gitkeep
+02_action_policy_test_two_balls/weight/*
+!02_action_policy_test_two_balls/weight/.gitkeep
+
